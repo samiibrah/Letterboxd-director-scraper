@@ -1,4 +1,3 @@
-# Letterboxd-wrapped-
 # Letterboxd Director Scraper
 
 A Python script that enriches your Letterboxd export data by scraping director information for each film you've watched.
