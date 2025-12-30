@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
 
-EXPORT_DIR = Path("/Users/samiaibrahim/Downloads/letterboxd-notsadanymore-2025-11-11-21-50-utc")  # <-- set this
+EXPORT_DIR = Path("file_path")  # <-- set this
 
 WATCHED_CSV = EXPORT_DIR / "watched.csv"
 OUT_CSV = EXPORT_DIR / "watched_with_directors.csv"
